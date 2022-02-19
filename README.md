@@ -1,2 +1,2 @@
 # yCloud
-Yandex Disk UI for ElementaryOS
+Yandex Disk UI
